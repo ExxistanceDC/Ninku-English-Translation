@@ -33,26 +33,26 @@ The following updates have been made to make the game fully English playable:
 
 <!-- Row 1 -->
 <p>
-  <img src="https://github.com/user-attachments/assets/d3e0031b-5957-4ef2-9871-10f1c9170757" width="500"/>
-  <img src="https://github.com/user-attachments/assets/85d90059-c0d1-4c6a-b122-4ae263a1790c" width="500"/>
+  <img width="500" alt="Ninku Title Screen" src="https://github.com/user-attachments/assets/0ee7f1e6-dea6-446f-95cd-6c04e20c6e51" />
+  <img width="500" alt="Ninku Opening Movie" src="https://github.com/user-attachments/assets/a4faceb9-e800-4916-8d35-2a99fbc188ac" />
 </p>
 
 <!-- Row 2 -->
 <p>
-  <img width="500" alt="Ninkuu - Tsuyokina Yatsura no Daigekitotsu (Japan)" src="https://github.com/user-attachments/assets/5c37ca55-2130-4afc-b7e4-6845522c2df0" />
-  <img width="500" alt="Ninkuu - Tsuyokina Yatsura no Daigekitotsu (Japan)" src="https://github.com/user-attachments/assets/4d825d19-fb11-4abe-be7c-13df6b46f6ff" />  
+  <img width="500" alt="Ninku Character Select" src="https://github.com/user-attachments/assets/c5dbecbf-6447-47a5-b2c5-ce765699a2fa" />
+  <img width="500" alt="Ninku Battle" src="https://github.com/user-attachments/assets/fe4020dd-314d-4daa-a638-2888c4fcad13" />  
 </p>
 
 <!-- Row 3 -->
 <p>
-  <img width="500" alt="Ninkuu - Tsuyokina Yatsura no Daigekitotsu (Japan)" src="https://github.com/user-attachments/assets/3dfe8421-a444-4ee7-b0b9-96f8f78a5c64" />
-  <img width="500" alt="Ninkuu - Tsuyokina Yatsura no Daigekitotsu (Japan)" src="https://github.com/user-attachments/assets/a68650f1-cd01-4cdc-8f97-a1b6b35d11b5" />
+  <img width="500" alt="Ninku Winner" src="https://github.com/user-attachments/assets/d69aa6df-763a-4424-9719-7b13108ac183" />
+  <img width="500" alt="Ninku Time Over" src="https://github.com/user-attachments/assets/7b72326d-1b22-4b23-9b3e-897fd9784a09" />
 </p>
 
 <!-- Row 4 -->
 <p>  
-<img width="500" alt="Ninkuu - Tsuyokina Yatsura no Daigekitotsu (Japan)" src="https://github.com/user-attachments/assets/4a3ebd3e-d2dd-492f-87df-a22c4bdedb6e" />
-<img width="500" alt="Ninkuu - Tsuyokina Yatsura no Daigekitotsu (Japan)" src="https://github.com/user-attachments/assets/5e3931e7-80f3-46b9-a682-61fdbf29f113" />
+  <img width="500" alt="Ninku Win Quote" src="https://github.com/user-attachments/assets/7747bc3c-00d4-4b51-81a9-5a3a8197f6a1" />
+  <img width="500" alt="Ninku Loading Screen" src="https://github.com/user-attachments/assets/6a5de392-29da-4233-88fd-65f37bc12e57" />
 </p>
 
 ## **About the Game**

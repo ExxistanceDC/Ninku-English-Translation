@@ -1,3 +1,5 @@
+<div align="center"><img width="500" alt="Ninku Splash"  src="https://github.com/user-attachments/assets/11cbccaf-8235-4f87-ac31-3a4233510b84" /></div>
+
 # Ninku English Translation Patch
 An English patch for the Sega Saturn Japanese exclusive, <a href=https://segaretro.org/Ninku:_Tsuyokina_Yatsura_no_Daigekitotsu!>Ninku: Tsuyokina Yatsura no Daigekitotsu!</a>
 

@@ -3,7 +3,7 @@
 # Ninku English Translation Patch
 An English patch for the Sega Saturn Japanese exclusive, <a href=https://segaretro.org/Ninku:_Tsuyokina_Yatsura_no_Daigekitotsu!>Ninku: Tsuyokina Yatsura no Daigekitotsu!</a>
 
-Ninku is a 1v1 fighting game based on the manga/anime of the <a href=https://en.wikipedia.org/wiki/Ninku>same name</a>. With 2D character sprites and 3D backgrounds, it has a nice presentation (especially the camera work in the stage introductions) that is evocotive of later fighters like Marvel vs Capcom. Otherwise, it's a rather barebones affair with only an arcade mode and a versus mode. Still, it's another Saturn Japanese exclusive that is now available for English audiences!
+Ninku is a 1v1 fighting game based on the manga/anime of the <a href=https://en.wikipedia.org/wiki/Ninku>same name</a>. With 2D character sprites and 3D backgrounds, it has a nice presentation (especially the camera work in the stage introductions) that is evocotive of later fighters like Marvel vs Capcom 2. Otherwise, it's a rather barebones affair with only an arcade mode and a versus mode. Still, it's another Saturn Japanese exclusive that is now available for English audiences!
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -17,7 +17,9 @@ Ninku is a 1v1 fighting game based on the manga/anime of the <a href=https://en.
 
 
 ## **Overview**
-I call this my "weekend patch," in that I somehow stubbled across this game on YouTube, decided to investigate the game files, and spent the weekend redrawing textures. The following updates have been made to make the game fully English playable:
+I call this my "weekend patch," in that I somehow stubbled across this game on YouTube, decided to investigate the game files, and spent the weekend redrawing textures. (Though figuring out how to re-encode the videos with subtitles took a good deal longer!) 
+
+The following updates have been made to make the game fully English playable:
 
 - Translated title screen, localized title
 - Translated main menu

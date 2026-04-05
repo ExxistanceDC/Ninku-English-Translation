@@ -115,7 +115,8 @@ The patch comes in two flavors: a Sega Saturn Patcher .ssp or an XDelta .xdelta 
 ## Helpful Game Tips ##
 
 1. Streak indicator: as you win matches, a meter in the bottom corner of the screen will fill in. Winning five matches in a row will complete the Roman numeral "V." Winning another five matches in a row will result in another complete "V" being added.
-<div align="center"><img width="170" height="65" alt="image" src="https://github.com/user-attachments/assets/0ef0ccd1-703d-4e14-8384-004de2ace71e"</></div>
+<div align="center"><img width="318" height="64" alt="image" src="https://github.com/user-attachments/assets/9ab26c5f-bf77-466c-ab7b-cd042ef00954" />
+</div>
 
 
 

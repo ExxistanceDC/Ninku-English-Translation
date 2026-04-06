@@ -138,3 +138,4 @@ The patch comes in two flavors: a Sega Saturn Patcher .ssp or an XDelta .xdelta 
 **Special Thanks**
 - Shadowmask (for writing the excellent tutorial, <a href=https://www.segasaturnshiro.com/2024/07/05/create-your-own-saturn-video-discs-tools-and-tutorial/>Create Your Own Saturn Video Discs</a>, as well as providing additional advice)
 - Malenko (whose <a href=https://segaxtreme.net/threads/saturn-15bpp-tool-tutorial.25687/>Saturn 15bpp tool tutorial </a> was invaluable for some of this translation's graphics)
+- Derek "ateam" Pascarella (who developed the Saturn 15bpp tool mentioned above!)

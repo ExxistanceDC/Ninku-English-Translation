@@ -17,7 +17,7 @@ Ninku is a 1v1 fighting game based on the manga/anime of the <a href=https://en.
 
 
 ## **Overview**
-I call this my "weekend patch," in that I somehow stubbled across this game on YouTube, decided to investigate the game files, and spent the weekend redrawing textures. (Though figuring out how to re-encode the videos with subtitles took a good deal longer!) 
+I call this my "weekend patch," in that I somehow stumbled across this game on YouTube, decided to investigate the game files, and spent the weekend redrawing textures. (Though figuring out how to re-encode the videos with subtitles took a good deal longer!) 
 
 The following updates have been made to make the game fully English playable:
 
